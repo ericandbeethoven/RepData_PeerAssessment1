@@ -74,7 +74,7 @@ hist(x,
      )
 ```
 
-![](PA1_template_files/figure-html/unnamed-chunk-4-1.png) 
+![](figure-html/unnamed-chunk-4-1.png) 
 
 ### 3. Calculate and report the mean and median of the total number of steps taken per day
 
@@ -115,7 +115,7 @@ plot(steps~time,
     )
 ```
 
-![](PA1_template_files/figure-html/unnamed-chunk-6-1.png) 
+![](figure-html/unnamed-chunk-6-1.png) 
 
 ### 2. Which 5-minute interval, on average across all the days in the dataset, contains the maximum number of steps?
 
@@ -171,7 +171,7 @@ hist(x,
 )
 ```
 
-![](PA1_template_files/figure-html/unnamed-chunk-11-1.png) 
+![](figure-html/unnamed-chunk-11-1.png) 
 
 ```r
 mean(x)
@@ -251,7 +251,7 @@ p <- p + theme_bw()
 print(p)  
 ```
 
-![](PA1_template_files/figure-html/unnamed-chunk-13-1.png) 
+![](figure-html/unnamed-chunk-13-1.png) 
 
 
 
